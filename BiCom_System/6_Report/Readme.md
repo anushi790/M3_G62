@@ -37,3 +37,39 @@ BiCom System is the extension of the unidirectional RKE to a bidirectional syste
 | LLR4  |If the Button is pressed TWICE, OFF LED RED, BLUE along with other LED's | HLR2|
 | LLR5  |If the Button is pressed THRICE, ON All LED's in CLOCKWISE manner GREEN-> ORANGE-> RED-> BLUE-> GREEN | HLR3 |    
 | LLR6  |If the Button is pressed FOUR TIMES, ON All LED's in ANTI-CLOCKWISE manner GREEN-> BLUE-> RED-> ORANGE-> GREEN | HLR4 |
+
+
+# Behavioral Diagrams:
+
+## High level Diagram 
+![Behavioral diagram bi-com HLD](https://user-images.githubusercontent.com/71927150/157907823-0155dbbb-ac45-401c-811c-92d9368dc57b.jpg)
+
+## Low level Diagram
+![Behavioural Diagram LLD](https://user-images.githubusercontent.com/71927150/157908247-44c05b6d-12fd-4bae-9aac-9cf666cdc416.jpg)
+
+# Structural Diagram:
+
+## High level Diagram
+![Structural diagram bi-com HLD](https://user-images.githubusercontent.com/71927150/157908994-9857d46f-f74f-49ee-86a8-b32fb09fefd0.jpg)
+
+## Low level Diagram
+![structural diagram bi-com LLD](https://user-images.githubusercontent.com/71927150/157909353-d69d7b96-92be-410e-9dea-271ec7fd8fbe.jpg)
+
+# TEST PLAN AND OUTPUT
+
+## TC_1 : NUMBER OF TIMES BUTTON PRESSED
+
+| TEST ID | Test Case Objective | Input Data  | Expected Output |Actual output| Status|
+| ----- | ----- | ------- | ------- | ------ |------ |  
+|TC_1.1| Pressed one time | RF | LOCK CAR |X | PASS |
+|TC_1.2| Pressed two times | RF | UNLOCK CAR | X | FAIL|
+|TC_1.3| Pressed three times | RF | ALARM ACTIVATE/DEACTIVATE| X | PASS|
+|TC_1.4| Pressed four times| RF | APPROACH LIGHT | X |FAIL|
+
+## TC_2 : 
+| TEST ID | Test Case Objective | Input Data  | Expected Output |Actual output| Status|
+| ----- | ----- | ------- | ------- | ------ |------ |  
+|TC_2.1| Pressed one time | RF | ALL LEDS ON |X | PASS |
+|TC_2.2| Pressed two times | RF | LED blinking clockwise | X | FAIL|
+|TC_2.3| Pressed three times | RF | LED blinking anti-clockwise| X | PASS|
+|TC_2.4| Pressed four times| RF | ALL LEDS OFF | X |FAIL|
