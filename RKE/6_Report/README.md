@@ -36,3 +36,15 @@ RKE (Remote Keyless Entry) is a smart entry system which is an electronic lock t
 | LLR4  |If the Unlock Button is pressed ONCE, OFF LED RED, BLUE along with other LED's | HLR2|
 | LLR5  |If the Lock  Button is pressed TWICE, ON All LED's in CLOCKWISE manner GREEN-> ORANGE-> RED-> BLUE-> GREEN | HLR3 |    
 | LLR6  |If the Unlock Button is pressed TWICE, ON All LED's in ANTI-CLOCKWISE manner GREEN-> BLUE-> RED-> ORANGE-> GREEN | HLR4 |
+
+# Behavioral Diagrams:
+
+## High level Diagram 
+
+## Low level Diagram
+
+# Structural Diagram:
+
+## High level Diagram
+
+## Low level Diagram
