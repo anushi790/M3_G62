@@ -14,7 +14,7 @@
 
 | TEST ID | Test Case Objective | Input Data  | Expected Output |Actual output| Status|
 | ----- | ----- | ------- | ------- | ------ |------ |  
-|TC_2.1| Pressed one time| RF | |FAIL |
-|TC_2.2| Pressed two times| RF | Alarm ON/OFF | X | FAIL|
-|TC_2.3| Pressed three times | RF | Battery LOW/High| X | FAIL|
-|TC_2.4| Pressed four times| RF | Door OPEN/CLOSE| X |FAIL|
+|TC_2.1| Pressed one time| RF | ALL LEDS ON|X |FAIL |
+|TC_2.2| Pressed two times| RF | LED blinking clockwise | X | FAIL|
+|TC_2.3| Pressed three times | RF |  LED blinking anti-clockwise| X | FAIL|
+|TC_2.4| Pressed four times| RF |ALL LEDS OFF| X |FAIL|
