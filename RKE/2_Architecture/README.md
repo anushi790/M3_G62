@@ -2,11 +2,11 @@
 
 ## High level Diagram 
 
-![diagram](https://github.com/anushi790/M3_G62/blob/main/RKE/5_ImagesAndVideos/Behavioral%20diagram..png)
+![diagram](https://github.com/anushi790/M3_G62/blob/main/RKE/5_ImagesAndVideos/Behavioral%20diagram.png)
 
 ## Low level Diagram
 
-![diagram](https://github.com/anushi790/M3_G62/blob/main/RKE/5_ImagesAndVideos/Behavioral%20diagram_low_level.png)
+![diagram](https://github.com/anushi790/M3_G62/blob/main/RKE/5_ImagesAndVideos/Behavioral%20diagram1.png)
 
 # Structural Diagram:
 
@@ -16,4 +16,4 @@
 
 ## Low level Diagram
 
-![diagram](https://github.com/anushi790/M3_G62/blob/main/RKE/5_ImagesAndVideos/structural_LL.drawio.png)
+![diagram](https://github.com/anushi790/M3_G62/blob/main/RKE/5_ImagesAndVideos/structural%20diagram%201.png)
