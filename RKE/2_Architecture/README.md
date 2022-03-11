@@ -2,11 +2,11 @@
 
 ## High level Diagram 
 
-![diagram](https://github.com/anushi790/M3_G62/blob/main/RKE/5_ImagesAndVideos/Behavioral%20diagram.png)
+![diagram](https://github.com/anushi790/M3_G62/blob/main/RKE/5_ImagesAndVideos/Behavioral%20diagram1.png)
 
 ## Low level Diagram
 
-![diagram](https://github.com/anushi790/M3_G62/blob/main/RKE/5_ImagesAndVideos/Behavioral%20diagram1.png)
+![diagram](https://github.com/anushi790/M3_G62/blob/main/RKE/5_ImagesAndVideos/Behavioral%20diagram.png)
 
 # Structural Diagram:
 
