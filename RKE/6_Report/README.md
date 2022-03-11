@@ -40,11 +40,16 @@ RKE (Remote Keyless Entry) is a smart entry system which is an electronic lock t
 # Behavioral Diagrams:
 
 ## High level Diagram 
+![Behavioural Diagram (2)](https://user-images.githubusercontent.com/71927150/157893241-1d7fe4d3-c776-46da-9dee-5d64761ff492.jpg)
 
 ## Low level Diagram
+![Behavioural Low level Diagram](https://user-images.githubusercontent.com/71927150/157893596-5a904b60-4d56-4466-9ad9-f9f81ce4c656.jpg)
 
 # Structural Diagram:
 
 ## High level Diagram
+![Structural_diagram HLD](https://user-images.githubusercontent.com/71927150/157894490-aea3d0dc-0ba2-4862-a942-3a48124806ac.jpg)
+
 
 ## Low level Diagram
+![structural diagram LLD](https://user-images.githubusercontent.com/71927150/157894459-116dc45b-d60f-4ec1-8b54-ee5a87191c0a.jpg)
